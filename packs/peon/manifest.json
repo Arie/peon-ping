@@ -14,7 +14,7 @@
     "acknowledge": {
       "sounds": [
         { "file": "PeonYes1.wav", "line": "I can do that." },
-        { "file": "PeonYes2.wav", "line": "Zug zug." },
+        { "file": "PeonYes2.wav", "line": "Be happy to." },
         { "file": "PeonYes3.wav", "line": "Work, work." },
         { "file": "PeonYes4.wav", "line": "Okie dokie." },
         { "file": "PeonYesAttack1.wav", "line": "OK." },
@@ -27,7 +27,7 @@
         { "file": "PeonReady1.wav", "line": "Ready to work?" },
         { "file": "PeonWhat4.wav", "line": "Something need doing?" },
         { "file": "PeonYes1.wav", "line": "I can do that." },
-        { "file": "PeonYes2.wav", "line": "Zug zug." },
+        { "file": "PeonYes2.wav", "line": "Be happy to." },
         { "file": "PeonYes3.wav", "line": "Work, work." },
         { "file": "PeonYesAttack1.wav", "line": "OK." },
         { "file": "PeonYesAttack3.wav", "line": "Be happy to." }
